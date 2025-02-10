@@ -28,8 +28,8 @@ This is a desktop application built with Python, PyQt5, and SQLite, designed to 
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your_repository_url>
-    cd <repository_name>
+    git clone <https://github.com/Shaloom7/-Food_Business_Manager.git>
+    cd <-Food_Business_Manager>
     ```
 
 2.  **Install dependencies:**
